@@ -4,7 +4,7 @@
 
 <!-- Social media -->
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/anuj-balu">
+  <a href="https://www.linkedin.com/in/anuj-balu">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://leetcode.com/u/ANUJ_BALU">
